@@ -79,4 +79,4 @@ On the cmd command line prompt IPconfig to see our IP connections and default ga
 
 
 
-Credit to Josh Makador for teaching me how to create this lab
+Credit to Josh Makador for teaching me how to create this lab.

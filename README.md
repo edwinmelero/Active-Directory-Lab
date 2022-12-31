@@ -28,7 +28,7 @@ Running on the DC, after Server 2019 ISO installation, I installed the Server Ro
 ![server roles installed](https://user-images.githubusercontent.com/105263523/210124300-739a1b0f-a60f-486c-b93f-42c1a850f330.png)
 
 
-Created an Organizational Unit and named it _ADMINS. Created my admin account username: a-emelero and passowrd: Password1.
+Created an Organizational Unit and named it _ADMINS. Created my admin account username: a-emelero and password: Password1.
 
 ![OUAdmin](https://user-images.githubusercontent.com/105263523/210124918-6842f1ca-4d88-4ab1-b3d2-beb6517cc915.png)
 
